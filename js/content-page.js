@@ -1,1 +1,1 @@
-﻿var table_of_contents = '<a href="01.html">Глава I. Создание Персонажа</a><a href="02.html">Глава II: Карьерные Пути</a><a href="03.html">ГЛАВА 3 - ЛЕГИОН</a><a href="06.html">ГЛАВА 6 - ФАЗА ОБЕСПЕЧЕНИЯ</a><a href="07.html">ГЛАВА 7 - ПРИНЦИПЫ ИГРЫ</a><a href="09.html"></a>'
+﻿var table_of_contents = '<a href="01.html">Глава I. Создание Персонажа</a><a href="02.html">Глава II: Карьерные Пути</a><a href="03.html">Глава III: Умения</a><a href="06.html">ГЛАВА 6 - ФАЗА ОБЕСПЕЧЕНИЯ</a><a href="07.html">ГЛАВА 7 - ПРИНЦИПЫ ИГРЫ</a><a href="09.html"></a>'
