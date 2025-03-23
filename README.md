@@ -3,4 +3,3 @@
 <p><a href="02.html">ГЛАВА 2</a></p>
 
 
-<p><a href="journal.html">Журнал</a></p>
